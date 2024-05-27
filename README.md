@@ -3,10 +3,10 @@
 
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
-- 🔭 Atualmente estou trabalhando em Bot_Discord
-- 🌱 Atualmente estou aprendendo HTML e CSS
-- 👯 Estou procurando colaborar em Desenvolvimento Web
-- 🤔 Estou procurando ajuda com Django
+- 🔭 estou trabalhando em Bot_Discord
+- 🌱 estou aprendendo HTML e CSS
+- 👯 procurando colaborar em Desenvolvimento Web
+- 🤔 procurando ajuda com Django
 - ⚡ Curiosidade: Estudante de Engenharia de Software
 
 <h3 align="left">Linguagens e ferramentas</h3>
