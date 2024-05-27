@@ -5,7 +5,7 @@
 
 - 🔭 estou trabalhando em Bot_Discord
 - 🌱 estou aprendendo HTML e CSS
-- 👯 procurando colaborar em Desenvolvimento Web
+- 👯 procurando aprender Desenvolvimento Web
 - 🤔 procurando ajuda com Django
 - ⚡ Curiosidade: Estudante de Engenharia de Software
 
