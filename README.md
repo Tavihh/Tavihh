@@ -7,7 +7,7 @@
 - 🌱 estou aprendendo HTML e CSS
 - 👯 procurando aprender Des. Web
 - 🤔 procurando ajuda com Django
-- ⚡ Curiosidade: Estudante de Engenharia de Software
+- ⚡ Curiosidade: Estudante de Eng. de Software
 
 <h3 align="left">Linguagens e ferramentas</h3>
 <p align="left"> 
