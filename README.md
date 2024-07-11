@@ -4,7 +4,7 @@
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 - 🔭 estou trabalhando em Bot_Discord
-- 🌱 estou aprendendo HTML e CSS
+- 🌱 estou aprendendo Web Server
 - 👯 procurando aprender Des. Web
 - 🤔 procurando ajuda com Django
 - ⚡ Curiosidade: Estudante de Eng. de Software
