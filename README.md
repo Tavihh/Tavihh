@@ -32,8 +32,8 @@
 </div>
 
 ## **GitHub Statistics**
-<p>
-<img width="400" heigth="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=dracula&hide_langs_below=1" />
+<p align='center'>
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=dracula&hide_langs_below=1" />
 <img width="500" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
 </p>
 
