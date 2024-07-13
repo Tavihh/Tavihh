@@ -25,20 +25,20 @@
 
 
 ## **GitHub Statistics**
-
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=dracula&hide_langs_below=1" />
 </a>
-
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=dracula&line_height=27" alt="**Santiago** github stats"/>
 </a>
-
 ![pv](https://pageview.vercel.app/?github_user=Tav1hh)
 
 ## Contato:
-
 <div>
 <a target="_blank" href="https://www.instagram.com/otta.santiago/"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a target="_blank" href="https://www.linkedin.com/in/otavio-santiago"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
