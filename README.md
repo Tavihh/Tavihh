@@ -24,10 +24,11 @@
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Tav1hh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-<p align='center' align-item='center'>
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=dracula&hide_langs_below=1" />
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
+<p align="center" style="display: flex; flex-direction: column; align-items: center;">
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=dracula&hide_langs_below=1" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
 </p>
+
 
 ![pv](https://pageview.vercel.app/?github_user=Tav1hh)
 
