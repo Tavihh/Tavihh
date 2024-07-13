@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img width="400" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=vision-friendly-dark&hide_langs_below=1">
+  <img width="350" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=vision-friendly-dark&hide_langs_below=1">
   <img width="600" height="350" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
 </p>
 
