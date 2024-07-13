@@ -32,8 +32,8 @@
 </div>
 
 ## **GitHub Statistics**
- <img width="500" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
-<a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=dracula&line_height=27" /></a>
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=dracula&line_height=27" />
 
 ![pv](https://pageview.vercel.app/?github_user=Tav1hh)
 
