@@ -32,7 +32,7 @@
 </div>
 
 ## **GitHub Statistics**
-<a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=dracula&hide_langs_below=1" /></a>
+ <img width="500" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
 <a href="https://github.com/Gurupreet"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=dracula&line_height=27" /></a>
 
 ![pv](https://pageview.vercel.app/?github_user=Tav1hh)
