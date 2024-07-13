@@ -9,6 +9,16 @@
 - 🤔 procurando ajuda com Django
 - ⚡ Curiosidade: Estudante de Eng. de Software
 
+
+
+### Languages:
+| Python3 | JS |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>
+
+
+
 <h3 align="left">Linguagens e ferramentas</h3>
 <p align="left"> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
