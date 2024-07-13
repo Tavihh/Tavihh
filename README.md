@@ -31,6 +31,7 @@
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=dracula&line_height=27" alt="**Santiago** github stats"/>
 </a>
+
 ![pv](https://pageview.vercel.app/?github_user=Tav1hh)
 
 ## Contato:
