@@ -24,6 +24,12 @@
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Tav1hh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=vision-friendly-dark&hide_langs_below=1">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
+</p>
+
 <p align="center">
   <img heigth="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=vision-friendly-dark&hide_langs_below=1" />
   <img heigth="200" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
