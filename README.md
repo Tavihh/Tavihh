@@ -26,7 +26,7 @@
 </p>
 <p align="center" style="display: flex; flex-direction: column; align-items: center;">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tav1hh&theme=dracula&hide_langs_below=1" />
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=vision-friendly-dark">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=Tav1hh&show_icons=true&theme=dracula">
 </p>
 
 
