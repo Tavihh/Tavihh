@@ -22,7 +22,7 @@
 
 ## **GitHub Statistics**
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Tav1hh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Tavihh&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 
 
-![pv](https://pageview.vercel.app/?github_user=Tav1hh)
+![pv](https://pageview.vercel.app/?github_user=Tavihh)
 
 ## Contato:
 <div>
