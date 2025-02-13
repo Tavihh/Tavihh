@@ -20,10 +20,10 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="55" height="55"/> |
 
 ## **GitHub Statistics**
-<p align="center">
+<div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com? 
    user=Tavihh&theme=blueberry&hide_border=true&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
-</p>
+</div>
 
 <p align="center">
   <img width="300" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavihh&theme=vision-friendly-dark&hide_langs_below=1">
