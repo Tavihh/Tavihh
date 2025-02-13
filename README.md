@@ -1,4 +1,4 @@
-# Me chamo <a href='https://github.io/Tavihh/Tavihh'>Otávio Santiago!</a> 
+# Me chamo <a href='https://tavihh.github.io/Tavihh'>Otávio Santiago!</a> 
 ## Bem vindo ao meu perfil GitHub 👋
 
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
